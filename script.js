@@ -1,6 +1,6 @@
 // ================= 核心配置 (AI助手配置) =================
 // 请替换为您的实际API密钥
-const API_TOKEN = "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";
+const API_TOKEN = "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";
 const API_URL = "https://models.inference.ai.azure.com/chat/completions";
 
 // ================= AI助手系统提示词 =================
@@ -548,4 +548,5 @@ function closeSuccessPage() {
 
 
 console.log('✅ 网站完全加载完成！');
+
 
